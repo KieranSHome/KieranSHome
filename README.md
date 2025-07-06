@@ -1,16 +1,19 @@
-## Hi there 👋
+# Packing List App
 
-<!--
-**KieranSHome/KieranSHome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repo contains a simple React application that helps generate a weekly packing list for trips involving work, the gym and stays at your mum's house.
 
-Here are some ideas to get you started:
+## Features
+- Input form for the number of office days, gym sessions and nights staying at mum's.
+- Automatically calculates how many of each item to pack (clothes, laptop bag contents, toiletries, etc.).
+- Checkboxes let you tick items off as you pack.
+- Placeholder section for packing diagrams or images.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Getting Started
+This project uses [Vite](https://vitejs.dev/) for development. Ensure you have `node` installed.
+
+```bash
+npm install
+npm run dev
+```
+
+Then open your browser to the address printed in the console to see the app.
